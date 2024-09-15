@@ -51,7 +51,7 @@ module.exports = {
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
   links: [
- {
+    {
       name: 'GitHub',
       link: 'https://github.com/spencerwooo/onedrive-vercel-index',
     },
@@ -66,6 +66,10 @@ module.exports = {
     {
       name: 'QQ',
       link: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=jygQ60zAWgqe5ZQtODPkkO2-QLdDrfdd&authKey=4WMdr7%2BX6efBAQ6Twc6cBrQs6980dsb1eSXEK3QpAnSQWaL9GGHJuOvDgjXnNu6b&noverify=0&group_code=4097583',
+    },
+    {
+      name: 'itunes',
+      link: 'https://www.tkfans.us',
     }
   ],
 
